@@ -98,8 +98,6 @@ Built in Python with:
 
 pandas, matplotlib, numpy, sklearn
 
-Created by: [Your Team Name or Individual Name]
-
 Hackathon: DS3 DataHacks 2025
 
 🚀 Future Improvements
