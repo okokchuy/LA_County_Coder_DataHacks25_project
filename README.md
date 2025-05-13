@@ -1,5 +1,6 @@
 # LA_County_Coder_DataHacks25_project
 Made by Elii Lopez and Jesus Aguilera for the 2025 DS3 DataHacks competition. 
+Website: https://devpost.com/software/la-county-coders?ref_content=my-projects-tab&ref_feature=my_projects
 
 🎥 Movie Rating Predictor - DS3 DataHacks 2025
 
